@@ -50,6 +50,7 @@ Worked on a bike sharing business scenario involving stores, orders, products, a
 
 ---
 
+
 ### 📌 Key Learnings
 - Practical use of SQL joins and aggregations
 - Applying window functions for ranking
